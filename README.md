@@ -197,9 +197,9 @@ Customer_Churn_Prediction/
 ├── scaler.pkl
 ├── .gitignore
 └── README.md
+```
 
-
-Saved Machine Learning Artifacts
+## Saved Machine Learning Artifacts
 
 The trained models and preprocessing objects are saved using Joblib:
 
@@ -253,4 +253,6 @@ Deployment to a cloud platform
 
 Conclusion
 
-This project demonstrates an end-to-end Machine Learning workflow for customer churn prediction, from data preprocessing and exploratory analysis to model development, evaluation, model persistence, and deployment through an interactive Streamlit application.
+This project demonstrates an end-to-end Machine Learning workflow for customer churn prediction,
+from data preprocessing and exploratory analysis to model development, 
+evaluation, model persistence, and deployment through an interactive Streamlit application.
