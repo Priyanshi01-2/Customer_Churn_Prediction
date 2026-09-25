@@ -189,12 +189,13 @@ Customer_Churn_Prediction/
 │   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
 │
 ├── notebooks/
-│   ├── 01_data_loading.py
-│   ├── logistic_model.pkl
-│   ├── random_forest_model.pkl
-│   ├── scaler.pkl
-│   └── feature_columns.pkl
+│   └── 01_data_loading.py
 │
+├── feature_columns.pkl
+├── logistic_model.pkl
+├── random_forest_model.pkl
+├── scaler.pkl
+├── .gitignore
 └── README.md
 
 
